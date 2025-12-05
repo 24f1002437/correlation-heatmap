@@ -5,6 +5,6 @@ This repository contains the correlation analysis and visualization for OptimalF
 **Email:** 24f1002437@ds.study.iitm.ac.in
 
 Contents:
-- `Correlation.csv` — correlation matrix from Google Sheets
-- `Heatmap.png` — Red–White–Green heatmap
+- `correlation.csv` — correlation matrix from Google Sheets
+- `heatmap.png` — Red–White–Green heatmap
 
